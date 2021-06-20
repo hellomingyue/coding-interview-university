@@ -30,5 +30,14 @@
 
 <img src="image-20210620185622797.png" alt="image-20210620185622797" style="zoom:50%;" />
 
-2. 安装，且设置environment 下path
+2. 安装，（包含exe的folder）且设置environment 下path
 3. CMD可以使用，GUI也可以使用
+
+### Vim adventure
+
+[游戏中文讲解](https://blog.csdn.net/weixin_45107866/article/details/93711288)
+
+[VIM 的冒险之旅](http://vim-adventures.com/)
+
+购买 https://www.douban.com/group/topic/212135737/
+

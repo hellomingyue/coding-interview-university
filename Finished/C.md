@@ -19,6 +19,13 @@
 
    <img src="image-20210620161950718.png" alt="image-20210620161950718" style="zoom:50%;" />
 
+### Setting Environment 2
+
+Linux, 执行sudo apt-get update,安装gcc; g++ helloworld.c; ./a.out
+
+- [ ] https://www.bilibili.com/video/BV17s411N78s 甲鱼课程
+
+- [ ] https://www.bilibili.com/video/BV1ic411h7pu?spm_id_from=333.788.b_636f6d6d656e74.10 甲鱼师妹推荐
 
 ## Vim
 
@@ -41,3 +48,4 @@
 
 购买 https://www.douban.com/group/topic/212135737/
 
+### 
